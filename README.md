@@ -43,12 +43,8 @@ I am a Junior frontend developer :desktop_computer:
 
 <br>
 
-
-
-
-<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinityCode95)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
 
 
 
