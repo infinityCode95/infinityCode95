@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">
-  Hi there, I'm <a href="https://artjs.site/" target="_blank">Artem 🖐</a> 
+  Hi there, I'm Artem 🖐</a> 
 </h1>
 
 <!-- 
