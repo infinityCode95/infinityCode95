@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Junior frontend developer :desktop_computer:
+I am a frontend developer :desktop_computer:
 
 ---
 
